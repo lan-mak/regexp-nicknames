@@ -1,1 +1,1 @@
-# regexp-nicknames
+# Никнеймы
